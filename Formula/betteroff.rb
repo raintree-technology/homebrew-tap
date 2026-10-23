@@ -2,7 +2,6 @@
 class Betteroff < Formula
   desc "Read your BetterOff household finances from the terminal, read-only"
   homepage "https://github.com/raintree-technology/betteroff.cli"
-  version "0.1.1"
   license "MIT"
 
   on_macos do
